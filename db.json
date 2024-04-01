@@ -1,0 +1,121 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "Agency": "Tenaga Nasional",
+        "Status": "Not Submitted",
+        "Approver": "N/A"
+      },
+      {
+        "id": "2",
+        "Agency": "Sabah Energy",
+        "Status": "Pending for Amendment",
+        "Approver": "N/A"
+      },
+      {
+        "id": "3",
+        "Agency": "Sarawak Energy",
+        "Status": "Pending for Approval",
+        "Approver": "N/A"
+      },
+      {
+        "id": "4",
+        "Agency": "Tenaga Nasional",
+        "Status": "Pending for Approval",
+        "Approver": "N/A"
+      },
+      {
+        "id": "5",
+        "Agency": "Sabah Energy",
+        "Status": "Approved",
+        "Approver": "N/A"
+      }
+    ],
+    "event": [
+      {
+        "id": "1",
+        "eventText": "Data Provider Convention 2023, seats are limited! Register now at www.dpc2023.com/register",
+        "eventDate": "February 29, 2024",
+        "eventTime": "11:37 AM",
+        "eventImg": "./images/data-provider-image.png"
+      },
+      {
+        "id": "ec4c",
+        "eventText": "aaaaa",
+        "eventName": "Data Provider Training 2024",
+        "eventStartDate": "Tue, March 12, 2024",
+        "eventStartTime": "8:42 AM",
+        "eventEndDate": "Thu, March 14, 2024",
+        "eventEndTime": "8:45 AM",
+        "eventLocation": "Suruhanjaya Tenaga (Energy Commission)",
+        "eventLink": "aaaaa",
+        "eventDate": "March 12, 2024",
+        "eventTime": "8:42 AM"
+      },
+      {
+        "id": "c7ca",
+        "eventText": "sssssssssss",
+        "eventDate": "March 12, 2024",
+        "eventTime": "4:42 PM"
+      }
+    ],
+    "tickets": [
+      {
+        "id": "1",
+        "ticketId": "#00123",
+        "category": "Product Listing",
+        "status": "Open",
+        "dateCreated": "12 Dec 2023"
+      },
+      {
+        "id": "2",
+        "ticketId": "#00124",
+        "category": "Others",
+        "status": "Close",
+        "dateCreated": "10 Dec 2023"
+      },
+      {
+        "id": "3",
+        "ticketId": "#00125",
+        "category": "Others",
+        "status": "Resolved",
+        "dateCreated": "11 Nov 2023"
+      },
+      {
+        "id": "4",
+        "ticketId": "#00126",
+        "category": "Inquiry",
+        "status": "Resolved",
+        "dateCreated": "9 Nov 2023"
+      },
+      {
+        "id": "5",
+        "ticketId": "#00127",
+        "category": "Product Listing",
+        "status": "Resolved",
+        "dateCreated": "13 Oct 2023"
+      }
+    ],
+    "listOfSubmission": [
+      {
+        "id": "1",
+        "status": "Approved",
+        "approver": "M Amirul Ezakiel"
+      },
+      {
+        "id": "2",
+        "status": "Pending for Amendment",
+        "approver": "M Amirul Ezakiel"
+      },
+      {
+        "id": "3",
+        "status": "Pending for Approval",
+        "approver": "N/A"
+      },
+      {
+        "id": "4",
+        "status": "Not Submitted",
+        "approver": "N/A"
+      }
+    ]
+  }
